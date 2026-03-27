@@ -1,7 +1,7 @@
 # ⚡ AtliQ Motors — India EV Market Analysis
 
 > **Role:** Data Analyst (Peter Pandey) | **Client:** AtliQ Motors (Bruce Haryali, Chief — India)  
-> **Tools:** MySQL · Power BI / Tableau · Excel  
+> **Tools:** MySQL  Excel  
 > **Domain:** Automotive · Electric Vehicles · India Market Entry
 
 ---
